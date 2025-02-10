@@ -1,7 +1,9 @@
 
 public class BoxOfCandy {
-    public BoxOfCandy(Candy[][] b){
-        box=b;
+
+    public BoxOfCandy(Candy[][] b) {
+        box = b;
     }
+
 
 }

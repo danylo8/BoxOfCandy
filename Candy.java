@@ -5,4 +5,6 @@ public class Candy {
     {
         flavor = f;
     }
+
+
 }
