@@ -11,5 +11,7 @@ public class Main {
         BoxOfCandy b = new BoxOfCandy(box);
         System.out.println(b);
 
+        box=new Candy[3][5];
+        b.moveCandyToFirstRow(2);
     }
 }

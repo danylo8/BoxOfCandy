@@ -6,5 +6,12 @@ public class Candy {
         flavor = f;
     }
 
+    public String toString()
+    {
+        return flavor;
+    }
 
+    public String getFlavor() {
+        return flavor;
+    }
 }
